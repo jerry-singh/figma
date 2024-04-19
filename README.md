@@ -1,6 +1,6 @@
 # figma
 
-Sure, here's an example README.md description for your GitHub repository:
+
 
 Figma HTML File Repository
 Welcome to the Figma HTML File Repository! This repository contains an HTML file generated from a Figma design. It is designed to showcase how Figma designs can be exported into HTML for web development purposes.
